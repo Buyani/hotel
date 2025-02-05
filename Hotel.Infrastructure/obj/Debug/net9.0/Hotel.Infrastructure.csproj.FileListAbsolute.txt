@@ -1,0 +1,15 @@
+C:\Users\palotaadmin\source\repos\2025\Learn\Hotel.Api\Hotel.Infrastructure\bin\Debug\net9.0\Hotel.Infrastructure.deps.json
+C:\Users\palotaadmin\source\repos\2025\Learn\Hotel.Api\Hotel.Infrastructure\bin\Debug\net9.0\Hotel.Infrastructure.dll
+C:\Users\palotaadmin\source\repos\2025\Learn\Hotel.Api\Hotel.Infrastructure\bin\Debug\net9.0\Hotel.Infrastructure.pdb
+C:\Users\palotaadmin\source\repos\2025\Learn\Hotel.Api\Hotel.Infrastructure\bin\Debug\net9.0\Hotel.Domain.dll
+C:\Users\palotaadmin\source\repos\2025\Learn\Hotel.Api\Hotel.Infrastructure\bin\Debug\net9.0\Hotel.Domain.pdb
+C:\Users\palotaadmin\source\repos\2025\Learn\Hotel.Api\Hotel.Infrastructure\obj\Debug\net9.0\Hotel.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\palotaadmin\source\repos\2025\Learn\Hotel.Api\Hotel.Infrastructure\obj\Debug\net9.0\Hotel.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\palotaadmin\source\repos\2025\Learn\Hotel.Api\Hotel.Infrastructure\obj\Debug\net9.0\Hotel.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\palotaadmin\source\repos\2025\Learn\Hotel.Api\Hotel.Infrastructure\obj\Debug\net9.0\Hotel.Infrastructure.AssemblyInfo.cs
+C:\Users\palotaadmin\source\repos\2025\Learn\Hotel.Api\Hotel.Infrastructure\obj\Debug\net9.0\Hotel.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\palotaadmin\source\repos\2025\Learn\Hotel.Api\Hotel.Infrastructure\obj\Debug\net9.0\Hotel.In.3ECE7436.Up2Date
+C:\Users\palotaadmin\source\repos\2025\Learn\Hotel.Api\Hotel.Infrastructure\obj\Debug\net9.0\Hotel.Infrastructure.dll
+C:\Users\palotaadmin\source\repos\2025\Learn\Hotel.Api\Hotel.Infrastructure\obj\Debug\net9.0\refint\Hotel.Infrastructure.dll
+C:\Users\palotaadmin\source\repos\2025\Learn\Hotel.Api\Hotel.Infrastructure\obj\Debug\net9.0\Hotel.Infrastructure.pdb
+C:\Users\palotaadmin\source\repos\2025\Learn\Hotel.Api\Hotel.Infrastructure\obj\Debug\net9.0\ref\Hotel.Infrastructure.dll

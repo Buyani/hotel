@@ -1,0 +1,409 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\palotaadmin\\source\\repos\\2025\\Learn\\Hotel.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F141213-5851-4472-88FF-1BB5BFB9CA2D}|Hotel.Api\\Hotel.Api.csproj|c:\\users\\palotaadmin\\source\\repos\\2025\\learn\\hotel.api\\hotel.api\\configuration\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F141213-5851-4472-88FF-1BB5BFB9CA2D}|Hotel.Api\\Hotel.Api.csproj|solutionrelative:hotel.api\\configuration\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F141213-5851-4472-88FF-1BB5BFB9CA2D}|Hotel.Api\\Hotel.Api.csproj|c:\\users\\palotaadmin\\source\\repos\\2025\\learn\\hotel.api\\hotel.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F141213-5851-4472-88FF-1BB5BFB9CA2D}|Hotel.Api\\Hotel.Api.csproj|solutionrelative:hotel.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B9198F-6BB7-4014-8916-7D2615D4B184}|Hotel.Domain\\Hotel.Domain.csproj|c:\\users\\palotaadmin\\source\\repos\\2025\\learn\\hotel.api\\hotel.domain\\abstract\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B9198F-6BB7-4014-8916-7D2615D4B184}|Hotel.Domain\\Hotel.Domain.csproj|solutionrelative:hotel.domain\\abstract\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4CE61E-09FE-419B-84C9-DFE497F07D62}|Hotel.Infrastructure\\Hotel.Infrastructure.csproj|c:\\users\\palotaadmin\\source\\repos\\2025\\learn\\hotel.api\\hotel.infrastructure\\persistance\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B4CE61E-09FE-419B-84C9-DFE497F07D62}|Hotel.Infrastructure\\Hotel.Infrastructure.csproj|solutionrelative:hotel.infrastructure\\persistance\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4CE61E-09FE-419B-84C9-DFE497F07D62}|Hotel.Infrastructure\\Hotel.Infrastructure.csproj|c:\\users\\palotaadmin\\source\\repos\\2025\\learn\\hotel.api\\hotel.infrastructure\\persistance\\hotelcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B4CE61E-09FE-419B-84C9-DFE497F07D62}|Hotel.Infrastructure\\Hotel.Infrastructure.csproj|solutionrelative:hotel.infrastructure\\persistance\\hotelcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4CE61E-09FE-419B-84C9-DFE497F07D62}|Hotel.Infrastructure\\Hotel.Infrastructure.csproj|c:\\users\\palotaadmin\\source\\repos\\2025\\learn\\hotel.api\\hotel.infrastructure\\persistance\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B4CE61E-09FE-419B-84C9-DFE497F07D62}|Hotel.Infrastructure\\Hotel.Infrastructure.csproj|solutionrelative:hotel.infrastructure\\persistance\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F141213-5851-4472-88FF-1BB5BFB9CA2D}|Hotel.Api\\Hotel.Api.csproj|c:\\users\\palotaadmin\\source\\repos\\2025\\learn\\hotel.api\\hotel.api\\endpoints\\reservationendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F141213-5851-4472-88FF-1BB5BFB9CA2D}|Hotel.Api\\Hotel.Api.csproj|solutionrelative:hotel.api\\endpoints\\reservationendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A7DBB4-8304-4D3C-AC21-4307786A7651}|Hotel.Application\\Hotel.Application.csproj|c:\\users\\palotaadmin\\source\\repos\\2025\\learn\\hotel.api\\hotel.application\\interfaces\\ireservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53A7DBB4-8304-4D3C-AC21-4307786A7651}|Hotel.Application\\Hotel.Application.csproj|solutionrelative:hotel.application\\interfaces\\ireservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A7DBB4-8304-4D3C-AC21-4307786A7651}|Hotel.Application\\Hotel.Application.csproj|c:\\users\\palotaadmin\\source\\repos\\2025\\learn\\hotel.api\\hotel.application\\mapping\\reservationmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53A7DBB4-8304-4D3C-AC21-4307786A7651}|Hotel.Application\\Hotel.Application.csproj|solutionrelative:hotel.application\\mapping\\reservationmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F141213-5851-4472-88FF-1BB5BFB9CA2D}|Hotel.Api\\Hotel.Api.csproj|c:\\users\\palotaadmin\\source\\repos\\2025\\learn\\hotel.api\\hotel.api\\endpoints\\roomendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F141213-5851-4472-88FF-1BB5BFB9CA2D}|Hotel.Api\\Hotel.Api.csproj|solutionrelative:hotel.api\\endpoints\\roomendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B9198F-6BB7-4014-8916-7D2615D4B184}|Hotel.Domain\\Hotel.Domain.csproj|c:\\users\\palotaadmin\\source\\repos\\2025\\learn\\hotel.api\\hotel.domain\\abstract\\i reservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B9198F-6BB7-4014-8916-7D2615D4B184}|Hotel.Domain\\Hotel.Domain.csproj|solutionrelative:hotel.domain\\abstract\\i reservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B9198F-6BB7-4014-8916-7D2615D4B184}|Hotel.Domain\\Hotel.Domain.csproj|c:\\users\\palotaadmin\\source\\repos\\2025\\learn\\hotel.api\\hotel.domain\\abstract\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B9198F-6BB7-4014-8916-7D2615D4B184}|Hotel.Domain\\Hotel.Domain.csproj|solutionrelative:hotel.domain\\abstract\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B9198F-6BB7-4014-8916-7D2615D4B184}|Hotel.Domain\\Hotel.Domain.csproj|c:\\users\\palotaadmin\\source\\repos\\2025\\learn\\hotel.api\\hotel.domain\\abstract\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B9198F-6BB7-4014-8916-7D2615D4B184}|Hotel.Domain\\Hotel.Domain.csproj|solutionrelative:hotel.domain\\abstract\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B9198F-6BB7-4014-8916-7D2615D4B184}|Hotel.Domain\\Hotel.Domain.csproj|c:\\users\\palotaadmin\\source\\repos\\2025\\learn\\hotel.api\\hotel.domain\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B9198F-6BB7-4014-8916-7D2615D4B184}|Hotel.Domain\\Hotel.Domain.csproj|solutionrelative:hotel.domain\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B9198F-6BB7-4014-8916-7D2615D4B184}|Hotel.Domain\\Hotel.Domain.csproj|c:\\users\\palotaadmin\\source\\repos\\2025\\learn\\hotel.api\\hotel.domain\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B9198F-6BB7-4014-8916-7D2615D4B184}|Hotel.Domain\\Hotel.Domain.csproj|solutionrelative:hotel.domain\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B9198F-6BB7-4014-8916-7D2615D4B184}|Hotel.Domain\\Hotel.Domain.csproj|c:\\users\\palotaadmin\\source\\repos\\2025\\learn\\hotel.api\\hotel.domain\\entities\\reservationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B9198F-6BB7-4014-8916-7D2615D4B184}|Hotel.Domain\\Hotel.Domain.csproj|solutionrelative:hotel.domain\\entities\\reservationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B9198F-6BB7-4014-8916-7D2615D4B184}|Hotel.Domain\\Hotel.Domain.csproj|c:\\users\\palotaadmin\\source\\repos\\2025\\learn\\hotel.api\\hotel.domain\\entities\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B9198F-6BB7-4014-8916-7D2615D4B184}|Hotel.Domain\\Hotel.Domain.csproj|solutionrelative:hotel.domain\\entities\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B9198F-6BB7-4014-8916-7D2615D4B184}|Hotel.Domain\\Hotel.Domain.csproj|c:\\users\\palotaadmin\\source\\repos\\2025\\learn\\hotel.api\\hotel.domain\\entities\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B9198F-6BB7-4014-8916-7D2615D4B184}|Hotel.Domain\\Hotel.Domain.csproj|solutionrelative:hotel.domain\\entities\\roomtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67B9198F-6BB7-4014-8916-7D2615D4B184}|Hotel.Domain\\Hotel.Domain.csproj|c:\\users\\palotaadmin\\source\\repos\\2025\\learn\\hotel.api\\hotel.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B9198F-6BB7-4014-8916-7D2615D4B184}|Hotel.Domain\\Hotel.Domain.csproj|solutionrelative:hotel.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4CE61E-09FE-419B-84C9-DFE497F07D62}|Hotel.Infrastructure\\Hotel.Infrastructure.csproj|c:\\users\\palotaadmin\\source\\repos\\2025\\learn\\hotel.api\\hotel.infrastructure\\persistance\\repositories\\reservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B4CE61E-09FE-419B-84C9-DFE497F07D62}|Hotel.Infrastructure\\Hotel.Infrastructure.csproj|solutionrelative:hotel.infrastructure\\persistance\\repositories\\reservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4CE61E-09FE-419B-84C9-DFE497F07D62}|Hotel.Infrastructure\\Hotel.Infrastructure.csproj|c:\\users\\palotaadmin\\source\\repos\\2025\\learn\\hotel.api\\hotel.infrastructure\\persistance\\repositories\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B4CE61E-09FE-419B-84C9-DFE497F07D62}|Hotel.Infrastructure\\Hotel.Infrastructure.csproj|solutionrelative:hotel.infrastructure\\persistance\\repositories\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A7DBB4-8304-4D3C-AC21-4307786A7651}|Hotel.Application\\Hotel.Application.csproj|c:\\users\\palotaadmin\\source\\repos\\2025\\learn\\hotel.api\\hotel.application\\hotel.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{53A7DBB4-8304-4D3C-AC21-4307786A7651}|Hotel.Application\\Hotel.Application.csproj|solutionrelative:hotel.application\\hotel.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A7DBB4-8304-4D3C-AC21-4307786A7651}|Hotel.Application\\Hotel.Application.csproj|c:\\users\\palotaadmin\\source\\repos\\2025\\learn\\hotel.api\\hotel.application\\dtos\\reservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53A7DBB4-8304-4D3C-AC21-4307786A7651}|Hotel.Application\\Hotel.Application.csproj|solutionrelative:hotel.application\\dtos\\reservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F141213-5851-4472-88FF-1BB5BFB9CA2D}|Hotel.Api\\Hotel.Api.csproj|c:\\users\\palotaadmin\\source\\repos\\2025\\learn\\hotel.api\\hotel.api\\hotel.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7F141213-5851-4472-88FF-1BB5BFB9CA2D}|Hotel.Api\\Hotel.Api.csproj|solutionrelative:hotel.api\\hotel.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\palotaadmin\\source\\repos\\2025\\Learn\\Hotel.Api\\Hotel.Api\\Configuration\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Hotel.Api\\Configuration\\DependencyInjection.cs",
+              "ToolTip": "C:\\Users\\palotaadmin\\source\\repos\\2025\\Learn\\Hotel.Api\\Hotel.Api\\Configuration\\DependencyInjection.cs",
+              "RelativeToolTip": "Hotel.Api\\Configuration\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:50:41.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReservationEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\palotaadmin\\source\\repos\\2025\\Learn\\Hotel.Api\\Hotel.Api\\Endpoints\\ReservationEndpoints.cs",
+              "RelativeDocumentMoniker": "Hotel.Api\\Endpoints\\ReservationEndpoints.cs",
+              "ToolTip": "C:\\Users\\palotaadmin\\source\\repos\\2025\\Learn\\Hotel.Api\\Hotel.Api\\Endpoints\\ReservationEndpoints.cs",
+              "RelativeToolTip": "Hotel.Api\\Endpoints\\ReservationEndpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:37:44.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IReservationService.cs",
+              "DocumentMoniker": "C:\\Users\\palotaadmin\\source\\repos\\2025\\Learn\\Hotel.Api\\Hotel.Application\\Interfaces\\IReservationService.cs",
+              "RelativeDocumentMoniker": "Hotel.Application\\Interfaces\\IReservationService.cs",
+              "ToolTip": "C:\\Users\\palotaadmin\\source\\repos\\2025\\Learn\\Hotel.Api\\Hotel.Application\\Interfaces\\IReservationService.cs",
+              "RelativeToolTip": "Hotel.Application\\Interfaces\\IReservationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:26:52.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\palotaadmin\\source\\repos\\2025\\Learn\\Hotel.Api\\Hotel.Infrastructure\\Persistance\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Hotel.Infrastructure\\Persistance\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\palotaadmin\\source\\repos\\2025\\Learn\\Hotel.Api\\Hotel.Infrastructure\\Persistance\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Hotel.Infrastructure\\Persistance\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:28:55.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HotelContext.cs",
+              "DocumentMoniker": "C:\\Users\\palotaadmin\\source\\repos\\2025\\Learn\\Hotel.Api\\Hotel.Infrastructure\\Persistance\\HotelContext.cs",
+              "RelativeDocumentMoniker": "Hotel.Infrastructure\\Persistance\\HotelContext.cs",
+              "ToolTip": "C:\\Users\\palotaadmin\\source\\repos\\2025\\Learn\\Hotel.Api\\Hotel.Infrastructure\\Persistance\\HotelContext.cs",
+              "RelativeToolTip": "Hotel.Infrastructure\\Persistance\\HotelContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:30:26.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\palotaadmin\\source\\repos\\2025\\Learn\\Hotel.Api\\Hotel.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Hotel.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\palotaadmin\\source\\repos\\2025\\Learn\\Hotel.Api\\Hotel.Api\\Program.cs",
+              "RelativeToolTip": "Hotel.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T10:05:42.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReservationMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\palotaadmin\\source\\repos\\2025\\Learn\\Hotel.Api\\Hotel.Application\\Mapping\\ReservationMappingProfile.cs",
+              "RelativeDocumentMoniker": "Hotel.Application\\Mapping\\ReservationMappingProfile.cs",
+              "ToolTip": "C:\\Users\\palotaadmin\\source\\repos\\2025\\Learn\\Hotel.Api\\Hotel.Application\\Mapping\\ReservationMappingProfile.cs",
+              "RelativeToolTip": "Hotel.Application\\Mapping\\ReservationMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:26:56.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\palotaadmin\\source\\repos\\2025\\Learn\\Hotel.Api\\Hotel.Infrastructure\\Persistance\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Hotel.Infrastructure\\Persistance\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\palotaadmin\\source\\repos\\2025\\Learn\\Hotel.Api\\Hotel.Infrastructure\\Persistance\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "Hotel.Infrastructure\\Persistance\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:30:34.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\palotaadmin\\source\\repos\\2025\\Learn\\Hotel.Api\\Hotel.Domain\\Abstract\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Hotel.Domain\\Abstract\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\palotaadmin\\source\\repos\\2025\\Learn\\Hotel.Api\\Hotel.Domain\\Abstract\\IUnitOfWork.cs",
+              "RelativeToolTip": "Hotel.Domain\\Abstract\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:28:32.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RoomEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\palotaadmin\\source\\repos\\2025\\Learn\\Hotel.Api\\Hotel.Api\\Endpoints\\RoomEndpoints.cs",
+              "RelativeDocumentMoniker": "Hotel.Api\\Endpoints\\RoomEndpoints.cs",
+              "ToolTip": "C:\\Users\\palotaadmin\\source\\repos\\2025\\Learn\\Hotel.Api\\Hotel.Api\\Endpoints\\RoomEndpoints.cs",
+              "RelativeToolTip": "Hotel.Api\\Endpoints\\RoomEndpoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:37:16.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "I ReservationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\palotaadmin\\source\\repos\\2025\\Learn\\Hotel.Api\\Hotel.Domain\\Abstract\\I ReservationRepository.cs",
+              "RelativeDocumentMoniker": "Hotel.Domain\\Abstract\\I ReservationRepository.cs",
+              "ToolTip": "C:\\Users\\palotaadmin\\source\\repos\\2025\\Learn\\Hotel.Api\\Hotel.Domain\\Abstract\\I ReservationRepository.cs",
+              "RelativeToolTip": "Hotel.Domain\\Abstract\\I ReservationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:27:47.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\palotaadmin\\source\\repos\\2025\\Learn\\Hotel.Api\\Hotel.Domain\\Abstract\\IRepository.cs",
+              "RelativeDocumentMoniker": "Hotel.Domain\\Abstract\\IRepository.cs",
+              "ToolTip": "C:\\Users\\palotaadmin\\source\\repos\\2025\\Learn\\Hotel.Api\\Hotel.Domain\\Abstract\\IRepository.cs",
+              "RelativeToolTip": "Hotel.Domain\\Abstract\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:28:28.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IRoomRepository.cs",
+              "DocumentMoniker": "C:\\Users\\palotaadmin\\source\\repos\\2025\\Learn\\Hotel.Api\\Hotel.Domain\\Abstract\\IRoomRepository.cs",
+              "RelativeDocumentMoniker": "Hotel.Domain\\Abstract\\IRoomRepository.cs",
+              "ToolTip": "C:\\Users\\palotaadmin\\source\\repos\\2025\\Learn\\Hotel.Api\\Hotel.Domain\\Abstract\\IRoomRepository.cs",
+              "RelativeToolTip": "Hotel.Domain\\Abstract\\IRoomRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:28:30.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\palotaadmin\\source\\repos\\2025\\Learn\\Hotel.Api\\Hotel.Domain\\Entities\\Entity.cs",
+              "RelativeDocumentMoniker": "Hotel.Domain\\Entities\\Entity.cs",
+              "ToolTip": "C:\\Users\\palotaadmin\\source\\repos\\2025\\Learn\\Hotel.Api\\Hotel.Domain\\Entities\\Entity.cs",
+              "RelativeToolTip": "Hotel.Domain\\Entities\\Entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:28:34.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\palotaadmin\\source\\repos\\2025\\Learn\\Hotel.Api\\Hotel.Domain\\Entities\\Reservation.cs",
+              "RelativeDocumentMoniker": "Hotel.Domain\\Entities\\Reservation.cs",
+              "ToolTip": "C:\\Users\\palotaadmin\\source\\repos\\2025\\Learn\\Hotel.Api\\Hotel.Domain\\Entities\\Reservation.cs",
+              "RelativeToolTip": "Hotel.Domain\\Entities\\Reservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:28:36.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ReservationStatus.cs",
+              "DocumentMoniker": "C:\\Users\\palotaadmin\\source\\repos\\2025\\Learn\\Hotel.Api\\Hotel.Domain\\Entities\\ReservationStatus.cs",
+              "RelativeDocumentMoniker": "Hotel.Domain\\Entities\\ReservationStatus.cs",
+              "ToolTip": "C:\\Users\\palotaadmin\\source\\repos\\2025\\Learn\\Hotel.Api\\Hotel.Domain\\Entities\\ReservationStatus.cs",
+              "RelativeToolTip": "Hotel.Domain\\Entities\\ReservationStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:28:39.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\palotaadmin\\source\\repos\\2025\\Learn\\Hotel.Api\\Hotel.Domain\\Entities\\Room.cs",
+              "RelativeDocumentMoniker": "Hotel.Domain\\Entities\\Room.cs",
+              "ToolTip": "C:\\Users\\palotaadmin\\source\\repos\\2025\\Learn\\Hotel.Api\\Hotel.Domain\\Entities\\Room.cs",
+              "RelativeToolTip": "Hotel.Domain\\Entities\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:28:40.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RoomType.cs",
+              "DocumentMoniker": "C:\\Users\\palotaadmin\\source\\repos\\2025\\Learn\\Hotel.Api\\Hotel.Domain\\Entities\\RoomType.cs",
+              "RelativeDocumentMoniker": "Hotel.Domain\\Entities\\RoomType.cs",
+              "ToolTip": "C:\\Users\\palotaadmin\\source\\repos\\2025\\Learn\\Hotel.Api\\Hotel.Domain\\Entities\\RoomType.cs",
+              "RelativeToolTip": "Hotel.Domain\\Entities\\RoomType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:28:49.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\palotaadmin\\source\\repos\\2025\\Learn\\Hotel.Api\\Hotel.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Hotel.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\palotaadmin\\source\\repos\\2025\\Learn\\Hotel.Api\\Hotel.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Hotel.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:28:51.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ReservationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\palotaadmin\\source\\repos\\2025\\Learn\\Hotel.Api\\Hotel.Infrastructure\\Persistance\\Repositories\\ReservationRepository.cs",
+              "RelativeDocumentMoniker": "Hotel.Infrastructure\\Persistance\\Repositories\\ReservationRepository.cs",
+              "ToolTip": "C:\\Users\\palotaadmin\\source\\repos\\2025\\Learn\\Hotel.Api\\Hotel.Infrastructure\\Persistance\\Repositories\\ReservationRepository.cs",
+              "RelativeToolTip": "Hotel.Infrastructure\\Persistance\\Repositories\\ReservationRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:31:16.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RoomRepository.cs",
+              "DocumentMoniker": "C:\\Users\\palotaadmin\\source\\repos\\2025\\Learn\\Hotel.Api\\Hotel.Infrastructure\\Persistance\\Repositories\\RoomRepository.cs",
+              "RelativeDocumentMoniker": "Hotel.Infrastructure\\Persistance\\Repositories\\RoomRepository.cs",
+              "ToolTip": "C:\\Users\\palotaadmin\\source\\repos\\2025\\Learn\\Hotel.Api\\Hotel.Infrastructure\\Persistance\\Repositories\\RoomRepository.cs",
+              "RelativeToolTip": "Hotel.Infrastructure\\Persistance\\Repositories\\RoomRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:31:14.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Hotel.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\palotaadmin\\source\\repos\\2025\\Learn\\Hotel.Api\\Hotel.Application\\Hotel.Application.csproj",
+              "RelativeDocumentMoniker": "Hotel.Application\\Hotel.Application.csproj",
+              "ToolTip": "C:\\Users\\palotaadmin\\source\\repos\\2025\\Learn\\Hotel.Api\\Hotel.Application\\Hotel.Application.csproj",
+              "RelativeToolTip": "Hotel.Application\\Hotel.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-05T14:28:08.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ReservationDto.cs",
+              "DocumentMoniker": "C:\\Users\\palotaadmin\\source\\repos\\2025\\Learn\\Hotel.Api\\Hotel.Application\\DTOs\\ReservationDto.cs",
+              "RelativeDocumentMoniker": "Hotel.Application\\DTOs\\ReservationDto.cs",
+              "ToolTip": "C:\\Users\\palotaadmin\\source\\repos\\2025\\Learn\\Hotel.Api\\Hotel.Application\\DTOs\\ReservationDto.cs",
+              "RelativeToolTip": "Hotel.Application\\DTOs\\ReservationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T14:26:48.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Hotel.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\palotaadmin\\source\\repos\\2025\\Learn\\Hotel.Api\\Hotel.Api\\Hotel.Api.csproj",
+              "RelativeDocumentMoniker": "Hotel.Api\\Hotel.Api.csproj",
+              "ToolTip": "C:\\Users\\palotaadmin\\source\\repos\\2025\\Learn\\Hotel.Api\\Hotel.Api\\Hotel.Api.csproj",
+              "RelativeToolTip": "Hotel.Api\\Hotel.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-05T10:11:08.96Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
